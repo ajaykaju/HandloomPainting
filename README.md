@@ -1,29 +1,13 @@
-# schoolreg
+# HandloomPainting Registartion
 
-## Project setup
-```
-npm install
-```
+Registartion form Made With Vue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ScreenShots
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Registered List
+<image src="https://github.com/ajaykaju/HandloomPainting/blob/main/screenshots/schoolreg.PNG?raw=true">
+  
+[Live Preview](https://schoolreg-59028.web.app/)
+ 
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
